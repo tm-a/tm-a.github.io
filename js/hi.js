@@ -1,0 +1,1 @@
+"use strict";console.log("\n\n    hi\n\n");
